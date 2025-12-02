@@ -102,6 +102,21 @@ Open `index.html` in a browser (or use Live Server in VS Code) and enter text fo
 
 ---
 
+## Images 
+
+- Summary
+<img width="1362" height="619" alt="summary" src="https://github.com/user-attachments/assets/80086232-d391-45ee-807f-0a2aedb8e06f" />
+- Keywords
+<img width="971" height="481" alt="keywords" src="https://github.com/user-attachments/assets/83817d6e-ad73-4e9d-93da-550668ee2e3b" />
+- DetailedAnalysis
+<img width="998" height="584" alt="detailed" src="https://github.com/user-attachments/assets/9fcdda03-1494-423a-9c71-103a2c559f86" />
+- Bullet Summary
+<img width="973" height="534" alt="bullet_summary" src="https://github.com/user-attachments/assets/d8acf725-cc1b-4a0b-8e89-b87200d8cad0" />
+- Sentiment
+<img width="945" height="482" alt="sentiment" src="https://github.com/user-attachments/assets/753aed44-4092-4b9c-82d4-c990e06cc318" />
+- Named Entities
+<img width="1004" height="624" alt="named_entities" src="https://github.com/user-attachments/assets/17aa0296-7768-49bc-8500-97117e86b5a9" />
+
 
 ## Contact
 
