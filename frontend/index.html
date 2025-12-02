@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Smart Text Analyzer</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+    <div class="container">
+
+        <h1 class="title">Smart Text Analyzer</h1>
+
+        <textarea id="inputText" placeholder="Enter text here..."></textarea>
+
+        <div class="buttons">
+            <button onclick="analyze('summary')">Summary</button>
+            <button onclick="analyze('bullet')">Bullet Summary</button>
+            <button onclick="analyze('keywords')">Keywords</button>
+            <button onclick="analyze('sentiment')">Sentiment</button>
+            <button onclick="analyze('ner')">Named Entities</button>
+            <button onclick="analyze('topic')">Topic</button>
+            <button onclick="analyze('detailed')">Detailed Analysis</button>
+        </div>
+
+        <div id="outputBox">
+            <h2>Output</h2>
+
+            <div id="loading" class="loader hidden">
+                <div class="spinner"></div>
+                <p>Analyzing... Please wait</p>
+            </div>
+
+            <pre id="result"></pre>
+        </div>
+
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
+
