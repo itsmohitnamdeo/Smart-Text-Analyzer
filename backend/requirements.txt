@@ -1,12 +1,12 @@
 fastapi
 uvicorn[standard]
-torch==2.2.0
-transformers==4.34.0
-sentencepiece==0.1.99
-nltk==3.8.1
-spacy==3.7.4
-blis==0.7.10  
-pydantic==2.6.0
-regex==2023.10.23
-python-multipart==0.0.6
+torch
+transformers
+sentencepiece
+nltk
+spacy
+blis
+pydantic
+regex
+python-multipart
 en-core-web-sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.7.1/en_core_web_sm-3.7.1-py3-none-any.whl
